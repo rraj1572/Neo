@@ -2,9 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Frontend](https://img.shields.io/badge/Frontend-Tkinter-fcba03) ![Backend](https://img.shields.io/badge/Backend-MongoDB-darkgreen) ![Libraries](https://img.shields.io/badge/Libraries-SpeechRecognition_|_GoogleTranslate_|_OpenAI_|_BeautifulSoup_|_PyAutoGUI_|_GeoPy_|_PyWhatKit_|_PyGame_|_PyAudio-red)
 
-#### 🔗 [Live Project Demonstration Video Link](https://youtu.be/s6moWG6B47I?si=7vL11BywWyH08WSu)
 
-![Jarvis text logo]([https://github.com/soumadeep-dey/Jarvis-Personal-Virtual-Assistant/assets/111021618/cbdc154c-ad57-4103-8a77-be89344a8cb0](https://private-user-images.githubusercontent.com/111021618/293291001-cbdc154c-ad57-4103-8a77-be89344a8cb0.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYzNDM5MTgsIm5iZiI6MTcwNjM0MzYxOCwicGF0aCI6Ii8xMTEwMjE2MTgvMjkzMjkxMDAxLWNiZGMxNTRjLWFkNTctNDEwMy04YTc3LWJlODkzNDRhOGNiMC5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyN1QwODIwMThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZTJhMDQxZjliZjg0ZjdiMDYzMjFhNmU3MWM4YmYyNzVhYjVlNDM3ZDY0ODMzMTQyYjcyNTM2YjU2NmRlMjJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GBQwNR4BHtJ7AUr0AyLfBM8PHWKFJ2N2Py3nphG_9vo))
+![Jarvis text logo](https://github.com/rraj1572/Neo/blob/main/Data/293291001-cbdc154c-ad57-4103-8a77-be89344a8cb0%20(1).png?raw=true)
 
 
 ## How It Works?
